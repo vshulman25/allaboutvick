@@ -17,9 +17,8 @@ Use preferred code reader and browser to view HTML, CSS & README files.
 ---
 ## Preview 
 
-![Updated Portfolio - Home/Index ](./assets/homeshot.jpeg)
-![Updated Portfolio - Contact ](./assets/contact.jpeg) 
-![Updated Portfolio - Portfolio ](./assets/portfolioshot.jpeg) 
+![Updated Portfolio - Home/Index ](./images/portfolio1.png)
+![Updated Portfolio - Contact ](./images/portfolio2.png) 
 
 ---
 
